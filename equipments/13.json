@@ -1,21 +1,25 @@
 {
-  "name": "Legs",
-  "description": "Number 3. Spooky Background Green with Spots, Pink Highlights with a Green Mohawk, Crazy Eyes, Bat Wings, Trident Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://ae01.alicdn.com/kf/H60249acfab7e483180e6202020b44bacS/half-chaps-Leather-half-chaps-for-men-and-women-comfortable-and-breathable-Knight-equipment-Protect-knight.jpg",
-  "external_url": "https://tinydragon.games/view?gen=1&id=3",
+  "name": "Feet",
+  "description": "Number 4. Spooky Background Green with a Puckered Up Expression, Spots, Pink Highlights, Cute Eyes, Wings, Fanned Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://i.pinimg.com/736x/2e/2c/d9/2e2cd928c09872410020f9ec1573b4ec.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=4",
   "attributes": [
     {
       "trait_type": "Tiny Dragon",
       "display_type": "number",
-      "value": "3"
+      "value": "4"
     },
     {
       "trait_type": "Attributes",
-      "value": 12
+      "value": 11
     },
     {
       "trait_type": "Attribute",
       "value": "Green"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Puckered Up"
     },
     {
       "trait_type": "Attribute",
@@ -35,19 +39,15 @@
     },
     {
       "trait_type": "Attribute",
-      "value": "Green Mohawk"
+      "value": "Cute Eyes"
     },
     {
       "trait_type": "Attribute",
-      "value": "Crazy Eyes"
+      "value": "Wings"
     },
     {
       "trait_type": "Attribute",
-      "value": "Bat Wings"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Trident Tail"
+      "value": "Fanned Tail"
     },
     {
       "trait_type": "Attribute",
@@ -55,7 +55,7 @@
     },
     {
       "trait_type": "Rank",
-      "value": "50"
+      "value": "446"
     }
   ]
 }

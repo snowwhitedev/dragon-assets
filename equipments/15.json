@@ -1,17 +1,17 @@
 {
-  "name": "Belt",
-  "description": "Number 5. AVAX Background Green with Pink Highlights, Flame Eyes, Wings and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://armourandcastings.com/media/cache/sylius_shop_product_original/1b/05/5db3f1e3e4812341fa48fb620af8.jpeg",
-  "external_url": "https://tinydragon.games/view?gen=1&id=5",
+  "name": "Tiny Dragon #4",
+  "description": "Number 4. Spooky Background Green with a Puckered Up Expression, Spots, Pink Highlights, Cute Eyes, Wings, Fanned Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://www.lorifactor.com/galerie/k/kb-003-knight-belt-gunth_905.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=4",
   "attributes": [
     {
       "trait_type": "Tiny Dragon",
       "display_type": "number",
-      "value": "5"
+      "value": "4"
     },
     {
       "trait_type": "Attributes",
-      "value": 10
+      "value": 11
     },
     {
       "trait_type": "Attribute",
@@ -19,7 +19,15 @@
     },
     {
       "trait_type": "Attribute",
+      "value": "Puckered Up"
+    },
+    {
+      "trait_type": "Attribute",
       "value": "Plates"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Spots"
     },
     {
       "trait_type": "Attribute",
@@ -27,11 +35,11 @@
     },
     {
       "trait_type": "Attribute",
-      "value": "AVAX Background"
+      "value": "Spooky Background"
     },
     {
       "trait_type": "Attribute",
-      "value": "Flame Eyes"
+      "value": "Cute Eyes"
     },
     {
       "trait_type": "Attribute",
@@ -39,11 +47,15 @@
     },
     {
       "trait_type": "Attribute",
+      "value": "Fanned Tail"
+    },
+    {
+      "trait_type": "Attribute",
       "value": "Horns"
     },
     {
       "trait_type": "Rank",
-      "value": "935"
+      "value": "446"
     }
   ]
 }

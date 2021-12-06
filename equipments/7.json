@@ -1,17 +1,17 @@
 {
-  "name": "Right Ring",
-  "description": "Number 2. Sky Background Green with Pink Highlights with a Straw Hat, Cute Eyes, Wings, Trident Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://cdn11.bigcommerce.com/s-e68muojepk/images/stencil/1280x1280/products/132/2466/Till_Death_Do_Us_Part_Mens_and_Womens_Matching_Skull_Wedding_rings__65310.1586897034.jpg?c=2",
-  "external_url": "https://tinydragon.games/view?gen=1&id=2",
+  "name": "Helmet",
+  "description": "Number 3. Spooky Background Green with Spots, Pink Highlights with a Green Mohawk, Crazy Eyes, Bat Wings, Trident Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://holzspielerei.com/media/image/product/3494/md/knight-helmet-berserk~2.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=3",
   "attributes": [
     {
       "trait_type": "Tiny Dragon",
       "display_type": "number",
-      "value": "2"
+      "value": "3"
     },
     {
       "trait_type": "Attributes",
-      "value": 11
+      "value": 12
     },
     {
       "trait_type": "Attribute",
@@ -23,23 +23,27 @@
     },
     {
       "trait_type": "Attribute",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Attribute",
       "value": "Pink Highlights"
     },
     {
       "trait_type": "Attribute",
-      "value": "Sky Background"
+      "value": "Spooky Background"
     },
     {
       "trait_type": "Attribute",
-      "value": "Straw Hat"
+      "value": "Green Mohawk"
     },
     {
       "trait_type": "Attribute",
-      "value": "Cute Eyes"
+      "value": "Crazy Eyes"
     },
     {
       "trait_type": "Attribute",
-      "value": "Wings"
+      "value": "Bat Wings"
     },
     {
       "trait_type": "Attribute",
@@ -51,7 +55,7 @@
     },
     {
       "trait_type": "Rank",
-      "value": "368"
+      "value": "50"
     }
   ]
 }

@@ -1,61 +1,49 @@
 {
-  "name": "Neck",
-  "description": "Number 4. Spooky Background Green with a Puckered Up Expression, Spots, Pink Highlights, Cute Eyes, Wings, Fanned Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://m.media-amazon.com/images/I/51hRE+cTYcL._AC_.jpg",
-  "external_url": "https://tinydragon.games/view?gen=1&id=4",
-  "attributes": [
-    {
-      "trait_type": "Tiny Dragon",
-      "display_type": "number",
-      "value": "4"
-    },
-    {
-      "trait_type": "Attributes",
-      "value": 11
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Puckered Up"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Plates"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Spots"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Pink Highlights"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Spooky Background"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Cute Eyes"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Wings"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Fanned Tail"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Horns"
-    },
-    {
-      "trait_type": "Rank",
-      "value": "446"
-    }
-  ]
+    "name": "Back",
+    "description": "Number 5. AVAX Background Green with Pink Highlights, Flame Eyes, Wings and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+    "image": "https://www.dhresource.com/0x0/f2/albu/g16/M01/1A/33/rBVa31-NOoGAKJL-AAC0QiqwGXM524.jpg",
+    "external_url": "https://tinydragon.games/view?gen=1&id=5",
+    "attributes": [
+        {
+            "trait_type": "Tiny Dragon",
+            "display_type": "number",
+            "value": "5"
+        },
+        {
+            "trait_type": "Attributes",
+            "value": 10
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Plates"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Pink Highlights"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "AVAX Background"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Flame Eyes"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Wings"
+        },
+        {
+            "trait_type": "Attribute",
+            "value": "Horns"
+        },
+        {
+            "trait_type": "Rank",
+            "value": "935"
+        }
+    ]
 }

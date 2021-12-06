@@ -1,17 +1,17 @@
 {
-  "name": "MEDIEVAL",
-  "description": "Number 1. AVAX Background Green with Spots, Slate Highlights, Cute Eyes and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://www.bagpipers.eu/pimgs/products/large/medieval_jousting_knight_body_armor__m_4847.jpg",
-  "external_url": "https://tinydragon.games/view?gen=1&id=1",
+  "name": "FEMALE",
+  "description": "Number 2. Sky Background Green with Pink Highlights with a Straw Hat, Cute Eyes, Wings, Trident Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://thumbs.dreamstime.com/z/female-armor-body-chain-mails-isolated-white-background-d-illustration-90658823.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=2",
   "attributes": [
     {
       "trait_type": "Tiny Dragon",
       "display_type": "number",
-      "value": "1"
+      "value": "2"
     },
     {
       "trait_type": "Attributes",
-      "value": 10
+      "value": 11
     },
     {
       "trait_type": "Attribute",
@@ -23,15 +23,15 @@
     },
     {
       "trait_type": "Attribute",
-      "value": "Spots"
+      "value": "Pink Highlights"
     },
     {
       "trait_type": "Attribute",
-      "value": "Slate Highlights"
+      "value": "Sky Background"
     },
     {
       "trait_type": "Attribute",
-      "value": "AVAX Background"
+      "value": "Straw Hat"
     },
     {
       "trait_type": "Attribute",
@@ -39,11 +39,19 @@
     },
     {
       "trait_type": "Attribute",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Trident Tail"
+    },
+    {
+      "trait_type": "Attribute",
       "value": "Horns"
     },
     {
       "trait_type": "Rank",
-      "value": "900"
+      "value": "368"
     }
   ]
 }

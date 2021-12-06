@@ -1,17 +1,17 @@
 {
-    "name": "Shield",
-    "description": "Number 4. Spooky Background Green with a Puckered Up Expression, Spots, Pink Highlights, Cute Eyes, Wings, Fanned Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-    "image": "https://www.martoswordstoledo.com/120/knight-lion-shield.jpg",
-    "external_url": "https://tinydragon.games/view?gen=1&id=4",
+    "name": "Dual Sword",
+    "description": "Number 5. AVAX Background Green with Pink Highlights, Flame Eyes, Wings and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+    "image": "https://thumbs.dreamstime.com/z/dual-sword-white-background-43802792.jpg",
+    "external_url": "https://tinydragon.games/view?gen=1&id=5",
     "attributes": [
         {
             "trait_type": "Tiny Dragon",
             "display_type": "number",
-            "value": "4"
+            "value": "5"
         },
         {
             "trait_type": "Attributes",
-            "value": 11
+            "value": 10
         },
         {
             "trait_type": "Attribute",
@@ -19,15 +19,7 @@
         },
         {
             "trait_type": "Attribute",
-            "value": "Puckered Up"
-        },
-        {
-            "trait_type": "Attribute",
             "value": "Plates"
-        },
-        {
-            "trait_type": "Attribute",
-            "value": "Spots"
         },
         {
             "trait_type": "Attribute",
@@ -35,11 +27,11 @@
         },
         {
             "trait_type": "Attribute",
-            "value": "Spooky Background"
+            "value": "AVAX Background"
         },
         {
             "trait_type": "Attribute",
-            "value": "Cute Eyes"
+            "value": "Flame Eyes"
         },
         {
             "trait_type": "Attribute",
@@ -47,15 +39,11 @@
         },
         {
             "trait_type": "Attribute",
-            "value": "Fanned Tail"
-        },
-        {
-            "trait_type": "Attribute",
             "value": "Horns"
         },
         {
             "trait_type": "Rank",
-            "value": "446"
+            "value": "935"
         }
     ]
 }

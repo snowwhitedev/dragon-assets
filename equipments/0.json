@@ -1,13 +1,13 @@
 {
-  "name": "Utility",
-  "description": "Number 5. AVAX Background Green with Pink Highlights, Flame Eyes, Wings and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://ae01.alicdn.com/kf/H81e39cc3accc460e8694591491d4297d2/10pcs-lot-Medieval-Ax-Sword-Knife-Hammer-Weapons-for-Roman-Knight-Spartan-Warrior-Crusader-MOC-Building.jpg",
-  "external_url": "https://tinydragon.games/view?gen=1&id=5",
+  "name": "MEDIEVAL",
+  "description": "Number 1. AVAX Background Green with Spots, Slate Highlights, Cute Eyes and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://www.bagpipers.eu/pimgs/products/large/medieval_jousting_knight_body_armor__m_4847.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=1",
   "attributes": [
     {
       "trait_type": "Tiny Dragon",
       "display_type": "number",
-      "value": "5"
+      "value": "1"
     },
     {
       "trait_type": "Attributes",
@@ -23,7 +23,11 @@
     },
     {
       "trait_type": "Attribute",
-      "value": "Pink Highlights"
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Slate Highlights"
     },
     {
       "trait_type": "Attribute",
@@ -31,11 +35,7 @@
     },
     {
       "trait_type": "Attribute",
-      "value": "Flame Eyes"
-    },
-    {
-      "trait_type": "Attribute",
-      "value": "Wings"
+      "value": "Cute Eyes"
     },
     {
       "trait_type": "Attribute",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Rank",
-      "value": "935"
+      "value": "900"
     }
   ]
 }

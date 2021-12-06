@@ -1,17 +1,17 @@
 {
-  "name": "Shoulder",
-  "description": "Number 1. AVAX Background Green with Spots, Slate Highlights, Cute Eyes and Horns. The attributes that Tiny Dragon's have determine their rarity.",
-  "image": "https://m.media-amazon.com/images/I/61X-p4w5xvL._AC_UL1001_.jpg",
-  "external_url": "https://tinydragon.games/view?gen=1&id=1",
+  "name": "Arms",
+  "description": "Number 2. Sky Background Green with Pink Highlights with a Straw Hat, Cute Eyes, Wings, Trident Tail and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://i.ebayimg.com/images/g/EzoAAOSwnDxUlzSX/s-l400.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=2",
   "attributes": [
     {
       "trait_type": "Tiny Dragon",
       "display_type": "number",
-      "value": "1"
+      "value": "2"
     },
     {
       "trait_type": "Attributes",
-      "value": 10
+      "value": 11
     },
     {
       "trait_type": "Attribute",
@@ -23,15 +23,15 @@
     },
     {
       "trait_type": "Attribute",
-      "value": "Spots"
+      "value": "Pink Highlights"
     },
     {
       "trait_type": "Attribute",
-      "value": "Slate Highlights"
+      "value": "Sky Background"
     },
     {
       "trait_type": "Attribute",
-      "value": "AVAX Background"
+      "value": "Straw Hat"
     },
     {
       "trait_type": "Attribute",
@@ -39,11 +39,19 @@
     },
     {
       "trait_type": "Attribute",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Trident Tail"
+    },
+    {
+      "trait_type": "Attribute",
       "value": "Horns"
     },
     {
       "trait_type": "Rank",
-      "value": "900"
+      "value": "368"
     }
   ]
 }
