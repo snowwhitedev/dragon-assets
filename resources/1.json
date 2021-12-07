@@ -1,1 +1,49 @@
-{"name":"Tiny Dragon #1","description":"Number 1. AVAX Background Green with Spots, Slate Highlights, Cute Eyes and Horns. The attributes that Tiny Dragon's have determine their rarity.","image":"https://tinydragon.games/dr/g1/1.png","external_url":"https://tinydragon.games/view?gen=1&id=1","attributes":[{"trait_type":"Tiny Dragon","display_type":"number","value":"1"},{"trait_type":"Attributes","value":10},{"trait_type":"Attribute","value":"Green"},{"trait_type":"Attribute","value":"Plates"},{"trait_type":"Attribute","value":"Spots"},{"trait_type":"Attribute","value":"Slate Highlights"},{"trait_type":"Attribute","value":"AVAX Background"},{"trait_type":"Attribute","value":"Cute Eyes"},{"trait_type":"Attribute","value":"Horns"},{"trait_type":"Rank","value":"900"}]}
+{
+  "name": "Wood",
+  "description": "Number 1. AVAX Background Green with Spots, Slate Highlights, Cute Eyes and Horns. The attributes that Tiny Dragon's have determine their rarity.",
+  "image": "https://i.etsystatic.com/11192885/r/il/b848fe/3470100607/il_340x270.3470100607_s3op.jpg",
+  "external_url": "https://tinydragon.games/view?gen=1&id=1",
+  "attributes": [
+    {
+      "trait_type": "Tiny Dragon",
+      "display_type": "number",
+      "value": "1"
+    },
+    {
+      "trait_type": "Attributes",
+      "value": 10
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Plates"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Slate Highlights"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "AVAX Background"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Cute Eyes"
+    },
+    {
+      "trait_type": "Attribute",
+      "value": "Horns"
+    },
+    {
+      "trait_type": "Rank",
+      "value": "900"
+    }
+  ]
+}
